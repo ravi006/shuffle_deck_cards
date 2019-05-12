@@ -1,7 +1,7 @@
 
 import random
 
-from src.shuffling.all_cards import Cards
+from src.all_cards import Cards
 
 
 class DeckOfCard(object):
